@@ -70,7 +70,7 @@ Step-by-step implementation with running code, real browser interactions, and de
    ```
 
 3. **Choose your learning path**
-   - 🎧 **Audio**: Play the [MP3 tutorial](./Assets/sk.mp3)
+   - 🎧 **Audio**: Play the [MP3 tutorial](./Assets/AI%20Agent%20Web%20Research%20with%20Playwright.mp3)
    - 🔬 **Interactive**: Open the [Jupyter notebook](./SemanticKernel_Agents_Playwright.ipynb)
 
 ---
@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 Ready to build intelligent web automation?
 
-**[🎧 Start with Audio](./Assets/sk.mp3)** | **[🔬 Try the Notebook](./SemanticKernel_Agents_Playwright.ipynb)**
+**[🎧 Start with Audio](./Assets/AI%20Agent%20Web%20Research%20with%20Playwright.mp3)** | **[🔬 Try the Notebook](./SemanticKernel_Agents_Playwright.ipynb)**
 
 *Master AI-powered browser automation with the most comprehensive Playwright agent tutorial available*
 
