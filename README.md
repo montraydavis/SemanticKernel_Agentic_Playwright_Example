@@ -56,8 +56,8 @@ Step-by-step implementation with running code, real browser interactions, and de
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/semantic-kernel-playwright-agent.git
-   cd semantic-kernel-playwright-agent
+   git clone https://github.com/montraydavis/SemanticKernel_Agentic_Playwright_Example.git
+   cd SemanticKernel_Agentic_Playwright_Example
    ```
 
 2. **Set your OpenAI API key**
