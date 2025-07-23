@@ -31,7 +31,7 @@ This comprehensive tutorial teaches you to build **autonomous AI agents** that c
 ## 📚 Learning Resources
 
 ### 🎧 Audio Tutorial
-**[AI Web Automation with Semantic Kernel and Playwright](./Assets/sk.mp3)**
+**[AI Web Automation with Semantic Kernel and Playwright](./Assets/AI Agent Web Research with Playwright.mp3)**
 > *Perfect for understanding concepts while commuting or multitasking*
 
 A comprehensive audio walkthrough covering the entire AI agent implementation from function calling concepts to production deployment.
